@@ -30,6 +30,12 @@ Dependencies:
 
 ---
 
+## Usage
+
+You can download the pretrained models, or train your own from the jupyter notebook. Make sure all are in the same path, and then either comment out the model load commands if you want to trian from scratch, or comment out the training chunks and keep the loading commands. Then just run! :)
+
+---
+
 ## Results
 
 The notebook shows MNIST digit samples generated via guided diffusion at different guidance scale values. 
